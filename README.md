@@ -1,3 +1,4 @@
 # Python
 
-There are list of small projects done while completing my Data Science course.
+This Repo contains list of small projects done in my free time.
+ - 
